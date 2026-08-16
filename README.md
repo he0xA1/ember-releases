@@ -98,7 +98,15 @@ Ember is crafted with an emphasis on calm, premium aesthetics and thoughtful typ
 ## 📱 Getting Started
 
 ### 1. Download & Install
-Download the latest APK directly from the [Releases Page](https://github.com/he0xA1/ember-releases/releases/latest) and install it on your Android device (Android 8.0 / API 26+).
+Download the latest APK directly from the [Releases Page](https://github.com/he0xA1/ember-releases/releases/latest) or choose your device architecture below:
+
+| Architecture | Recommended For | Direct Download (`v2.5.1`) |
+|---|---|---|
+| **ARM64 (`arm64-v8a`)** | Most modern Android phones (Pixel, Galaxy, Xiaomi, etc.) | [ember-2.5.1-arm64-v8a.apk](https://github.com/he0xA1/ember-releases/releases/download/v2.5.1/ember-2.5.1-arm64-v8a.apk) |
+| **ARMv7 (`armeabi-v7a`)** | Older 32-bit Android phones and tablets | [ember-2.5.1-armeabi-v7a.apk](https://github.com/he0xA1/ember-releases/releases/download/v2.5.1/ember-2.5.1-armeabi-v7a.apk) |
+| **x86_64** | 64-bit Android emulators & ChromeOS devices | [ember-2.5.1-x86_64.apk](https://github.com/he0xA1/ember-releases/releases/download/v2.5.1/ember-2.5.1-x86_64.apk) |
+| **x86** | 32-bit Android emulators | [ember-2.5.1-x86.apk](https://github.com/he0xA1/ember-releases/releases/download/v2.5.1/ember-2.5.1-x86.apk) |
+| **Universal** | Compatible with all devices (larger download) | [ember-2.5.1-universal.apk](https://github.com/he0xA1/ember-releases/releases/download/v2.5.1/ember-2.5.1-universal.apk) |
 
 ### 2. Take the Guided Tour
 On first launch, Ember walks you through a friendly 60-second interactive tour explaining how spaced repetition works and how to get the most out of your study sessions.

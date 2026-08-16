@@ -1,19 +1,19 @@
 {
-  "versionCode": 17,
-  "versionName": "2.5.0",
+  "versionCode": 18,
+  "versionName": "2.5.1",
   "releasedAt": "2026-08-16",
   "mandatory": false,
   "backupFormatVersion": 3,
   "minReadableBackupFormat": 1,
-  "downloadUrl": "https://github.com/he0xA1/ember-releases/releases/download/v2.5.0/ember-2.5.0-universal.apk",
+  "downloadUrl": "https://github.com/he0xA1/ember-releases/releases/download/v2.5.1/ember-2.5.1-universal.apk",
   "abiDownloadUrls": {
-    "arm64-v8a": "https://github.com/he0xA1/ember-releases/releases/download/v2.5.0/ember-2.5.0-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/he0xA1/ember-releases/releases/download/v2.5.0/ember-2.5.0-armeabi-v7a.apk",
-    "universal": "https://github.com/he0xA1/ember-releases/releases/download/v2.5.0/ember-2.5.0-universal.apk",
-    "x86": "https://github.com/he0xA1/ember-releases/releases/download/v2.5.0/ember-2.5.0-x86.apk",
-    "x86_64": "https://github.com/he0xA1/ember-releases/releases/download/v2.5.0/ember-2.5.0-x86_64.apk"
+    "arm64-v8a": "https://github.com/he0xA1/ember-releases/releases/download/v2.5.1/ember-2.5.1-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/he0xA1/ember-releases/releases/download/v2.5.1/ember-2.5.1-armeabi-v7a.apk",
+    "universal": "https://github.com/he0xA1/ember-releases/releases/download/v2.5.1/ember-2.5.1-universal.apk",
+    "x86": "https://github.com/he0xA1/ember-releases/releases/download/v2.5.1/ember-2.5.1-x86.apk",
+    "x86_64": "https://github.com/he0xA1/ember-releases/releases/download/v2.5.1/ember-2.5.1-x86_64.apk"
   },
   "notes": [
-    "Release v2.5.0"
+    "Release v2.5.1"
   ]
 }
