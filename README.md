@@ -100,13 +100,13 @@ Ember is crafted with an emphasis on calm, premium aesthetics and thoughtful typ
 ### 1. Download & Install
 Download the latest APK directly from the [Releases Page](https://github.com/he0xA1/ember-releases/releases/latest) or choose your device architecture below:
 
-| Architecture | Recommended For | Direct Download (`v2.6.4`) |
+| Architecture | Recommended For | Direct Download (`v2.6.5`) |
 |---|---|---|
-| **ARM64 (`arm64-v8a`)** | Most modern Android phones (Pixel, Galaxy, Xiaomi, etc.) | [ember-2.6.4-arm64-v8a.apk](https://github.com/he0xA1/ember-releases/releases/download/v2.6.4/ember-2.6.4-arm64-v8a.apk) |
-| **ARMv7 (`armeabi-v7a`)** | Older 32-bit Android phones and tablets | [ember-2.6.4-armeabi-v7a.apk](https://github.com/he0xA1/ember-releases/releases/download/v2.6.4/ember-2.6.4-armeabi-v7a.apk) |
-| **x86_64** | 64-bit Android emulators & ChromeOS devices | [ember-2.6.4-x86_64.apk](https://github.com/he0xA1/ember-releases/releases/download/v2.6.4/ember-2.6.4-x86_64.apk) |
-| **x86** | 32-bit Android emulators | [ember-2.6.4-x86.apk](https://github.com/he0xA1/ember-releases/releases/download/v2.6.4/ember-2.6.4-x86.apk) |
-| **Universal** | Compatible with all devices (larger download) | [ember-2.6.4-universal.apk](https://github.com/he0xA1/ember-releases/releases/download/v2.6.4/ember-2.6.4-universal.apk) |
+| **ARM64 (`arm64-v8a`)** | Most modern Android phones (Pixel, Galaxy, Xiaomi, etc.) | [ember-2.6.5-arm64-v8a.apk](https://github.com/he0xA1/ember-releases/releases/download/v2.6.5/ember-2.6.5-arm64-v8a.apk) |
+| **ARMv7 (`armeabi-v7a`)** | Older 32-bit Android phones and tablets | [ember-2.6.5-armeabi-v7a.apk](https://github.com/he0xA1/ember-releases/releases/download/v2.6.5/ember-2.6.5-armeabi-v7a.apk) |
+| **x86_64** | 64-bit Android emulators & ChromeOS devices | [ember-2.6.5-x86_64.apk](https://github.com/he0xA1/ember-releases/releases/download/v2.6.5/ember-2.6.5-x86_64.apk) |
+| **x86** | 32-bit Android emulators | [ember-2.6.5-x86.apk](https://github.com/he0xA1/ember-releases/releases/download/v2.6.5/ember-2.6.5-x86.apk) |
+| **Universal** | Compatible with all devices (larger download) | [ember-2.6.5-universal.apk](https://github.com/he0xA1/ember-releases/releases/download/v2.6.5/ember-2.6.5-universal.apk) |
 
 ### 2. Take the Guided Tour
 On first launch, Ember walks you through a friendly 60-second interactive tour explaining how spaced repetition works and how to get the most out of your study sessions.
